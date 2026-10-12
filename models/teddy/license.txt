@@ -1,0 +1,8 @@
+Model Information:
+* title:	Low poly asset: Teddy Bear
+* source:	https://sketchfab.com/3d-models/low-poly-asset-teddy-bear-83319efff3554750a08764fd7001c991
+* author:	Kieran H (https://sketchfab.com/kh.kieranhutton)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works
